@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](YOUR_FRONTEND_MENTOR_SOLUTION_URL)
-- Live Site URL: [Live Demo](YOUR_LIVE_SITE_URL)
+- Solution URL: [Frontend Mentor Solution]([YOUR_FRONTEND_MENTOR_SOLUTION_URL](https://www.frontendmentor.io/solutions/responsive-newsletter-sign-up-form-with-email-validation-ME11DGMIj4))
+- Live Site URL: [Live Demo]([YOUR_LIVE_SITE_URL](https://sravankumar-0710.github.io/newsletter-signup-form/))
 - GitHub Repository: [View on GitHub](https://github.com/sravankumar-0710/newsletter-signup-form)
 
 ## My Process
